@@ -1,0 +1,8 @@
+events.nr=1
+
+event1.type=link
+event1.id=eidaslogin
+event1.value=
+
+
+

@@ -1,0 +1,12 @@
+﻿
+events.nr=2
+
+event1.type=selectByVal
+event1.id=countryBox
+event1.value=ES
+
+event2.type=jsbutton
+event2.id=submit_button
+event2.value=
+
+

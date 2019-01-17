@@ -1,0 +1,3 @@
+start.url=https://se-eidas.redsara.es/SP/populateIndexPage
+firefox.profile=spanish
+firefox.headless=false

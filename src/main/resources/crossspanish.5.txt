@@ -1,0 +1,5 @@
+events.nr=1
+
+event1.type=button
+event1.id=buttonNextSlide2
+event1.value=

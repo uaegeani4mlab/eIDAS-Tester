@@ -1,0 +1,9 @@
+events.nr=2
+
+event1.type=selectByVal
+event1.id=countrySelection2
+event1.value=ES
+
+event2.type=jsbutton
+event2.id=next
+event2.value=

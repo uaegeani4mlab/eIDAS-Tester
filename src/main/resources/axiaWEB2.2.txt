@@ -1,0 +1,11 @@
+events.nr=2
+
+event1.type=selectByVal
+event1.id=countrySelection
+event1.value=ES
+
+event2.type=link
+event2.id=next
+event2.value=
+
+

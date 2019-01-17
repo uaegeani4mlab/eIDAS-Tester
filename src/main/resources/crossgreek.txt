@@ -1,0 +1,3 @@
+start.url=https://pre.eidas.gov.gr/SP/populateIndexPage
+firefox.profile=spanish
+firefox.headless=false

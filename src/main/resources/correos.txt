@@ -1,0 +1,3 @@
+start.url=https://miidentidadpre2.azurewebsites.net
+firefox.profile=default
+firefox.headless=false

@@ -1,0 +1,4 @@
+start.url=https://test-axiaweb.athexgroup.gr
+
+firefox.profile=spanish
+firefox.headless=false

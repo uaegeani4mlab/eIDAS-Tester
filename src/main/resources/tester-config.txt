@@ -1,0 +1,2 @@
+gecko.path=c:/geckodriver.exe
+firefox.path=c:/Program Files/Firefox Nightly/firefox.exe

@@ -1,0 +1,3 @@
+start.url=https://eidas.gov.gr/SP/populateIndexPage
+firefox.profile=default
+firefox.headless=true

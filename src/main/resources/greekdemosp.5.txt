@@ -1,0 +1,5 @@
+events.nr=1
+
+event1.type=button
+event1.id=submit_saml
+event1.value=

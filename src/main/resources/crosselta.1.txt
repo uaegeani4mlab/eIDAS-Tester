@@ -1,0 +1,5 @@
+events.nr=1
+
+event1.type=jsbutton
+event1.id=eIDAS-button
+event1.value=

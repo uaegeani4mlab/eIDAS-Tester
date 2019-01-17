@@ -1,0 +1,13 @@
+events.nr=3
+
+event1.type=text
+event1.id=username
+event1.value=stork2test1bgr
+
+event2.type=text
+event2.id=password
+event2.value=stork2test1
+
+event3.type=button
+event3.id=idpSubmitbutton
+event3.value=
